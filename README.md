@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker (Python | OOP Console Application)
 
 A menu-driven, object-oriented Python console application for tracking,
@@ -77,3 +78,6 @@ Python Developer Intern - DecodeLabs Industrial Training Program, Batch 2026
 ## License
 This project was created for educational purposes as part of the
 DecodeLabs Industrial Training Kit.
+=======
+# Expence_Tracker
+>>>>>>> 0dbbfd6102f410ef4c1a358325861e5a56f38297
