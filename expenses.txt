@@ -1,0 +1,4 @@
+2,Food,50.0
+3,Travel,5000.0
+4,Activity,2000.0
+5,food,1400.0
